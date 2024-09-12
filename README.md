@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinay-nampally
 - 👀 I’m interested in Learning😊
-- 🌱 I’m currently learning Fullstack development😎
+- 🌱 I’m currently learning Frontend development😎
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhinaynampally3889@gmail.com
 - 😄 Pronouns: ...
